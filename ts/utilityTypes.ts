@@ -86,7 +86,7 @@ let y: T0 = "a";
 
 console.log(x);
 
-//notnullable
+//notnullable : not nullable
 
 type T3 = NonNullable<string | number | undefined>;
 
